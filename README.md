@@ -1,6 +1,6 @@
 # Duckietown Object Detection — YOLOv8 Training
 
-A small student-facing training repository for four-class object detection in Duckietown camera imagery. **YOLOv8n** is the default model. The code is separate from the dataset, which is distributed via Google Drive.
+A training repository for four-class object detection in Duckietown RGB camera imagery. **YOLOv8n** is the default model. The code is separate from the dataset, which is distributed via Google Drive.
 
 ## Dataset
 
