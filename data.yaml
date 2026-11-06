@@ -1,0 +1,13 @@
+# Portable YOLO object detection dataset configuration.
+# Save as dataset/data.yaml next to the images/ and labels/ directories.
+# Do not specify an absolute path: train.py resolves the dataset root at runtime.
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names:
+  0: Bot
+  1: Intersection_sign
+  2: Stop_sign
+  3: Traffic_light

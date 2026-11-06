@@ -1,0 +1,4 @@
+# Tested entry point: ultralytics.YOLO; pip resolves PyTorch dependencies.
+# For CUDA-specific torch builds, install torch/torchvision first from pytorch.org.
+ultralytics>=8.3,<9
+PyYAML>=6.0,<7

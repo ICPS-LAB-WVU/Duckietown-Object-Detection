@@ -1,0 +1,19 @@
+# Dataset images and annotations are distributed separately via Google Drive.
+dataset/
+datasets/
+*.zip
+runs/
+wandb/
+outputs/
+weights/
+model_weights/
+*.pt
+*.pth
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.egg-info/
